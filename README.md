@@ -28,8 +28,5 @@ Create database: flask_form_db
 Use user root (no password by default)
 
 Run the app
-bash
-Copier
-Modifier
 python app.py
 Go to: http://127.0.0.1:5000
