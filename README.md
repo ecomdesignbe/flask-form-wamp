@@ -21,7 +21,6 @@ cd flask-form-wamp
 pip install -r requirements.txt
 
 ### MySQL Setup (via phpMyAdmin)
-```bash
 Open http://localhost/phpmyadmin
 
 Create database: flask_form_db
